@@ -31,12 +31,12 @@ _May 2017 – June 2018_
 - Optimized backend queries and participated in Agile sprints
 
 ### 🌐 Afame Technologies | Remote  
-**Frontend Developer Intern** | _March 2024 – May 2024_  
+**Frontend Developer ** | _March 2024 – May 2024_  
 - Built client-facing React apps with HTML, CSS, and JavaScript  
 - Participated in code reviews and UI optimization
 
 ### 🧪 Milestone Technology | Noida  
-**Web Development Intern** | _June 2023 – Jan 2024_  
+**Web Development ** | _June 2023 – Jan 2024_  
 - Developed React modules and integrated APIs  
 - Assisted in QA testing and Agile ceremonies
 
