@@ -3,10 +3,10 @@
 I'm a Full Stack Developer with a passion for building scalable CRM systems, task management dashboards, and production-grade web applications. I specialize in Java, Spring Boot, React.js, Node.js, and MySQL, and I thrive in modular, secure, and client-ready development environments.
 
 ## 🚀 Tech Stack
-- **Frontend:** React.js, Bootstrap, Icons, Vite, HTML5, CSS3
-- **Backend:** Java, Spring Boot, Node.js, Express.js, JWT, MySQL2
-- **Tools & DevOps:** Git, Postman, MySQL Workbench, VS Code, Nodemon, Lombok
-- **Methodologies:** Agile, RESTful APIs, Role-Based Access, QA Testing
+- **Frontend:** React.js, Bootstrap, HTML5, CSS3
+- **Backend:** Java, Spring Boot, Node.js,JWT, MySQL2
+- **Tools & DevOps:** Git, Postman, MySQL Workbench, VS Code
+- **Methodologies:** Agile, RESTful APIs, Role-Based Access
 
 ## 💼 Work Experience
 - **Full Stack Developer @ RAILBIT Engineers Pvt. Ltd.**  
