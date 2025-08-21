@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rcil
+# 👋 Hi, I'm Guddu Kumar Singh
 
 I'm a Full Stack Developer with a passion for building scalable CRM systems, task management dashboards, and production-grade web applications. I specialize in Java, Spring Boot, React.js, Node.js, and MySQL, and I thrive in modular, secure, and client-ready development environments.
 
